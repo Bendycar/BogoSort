@@ -9,8 +9,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 
-n = 2 
-
 def random_list(n):
     '''
     Generates the list that will be used to run the BogoSort algorithm.
