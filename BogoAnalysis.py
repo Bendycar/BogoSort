@@ -17,7 +17,7 @@ def random_list(n):
     If BogoSort is shown a list that is already sorted, the number of steps will
     of course be 1. Also, if a list given has duplicate elements, the algorithm
     should run faster because there are more possible solutions that create a 
-    sorted list. To eliminate these instances, this function ensures that the 
+    sorted list. For consistency's sake, this function ensures that the 
     list generated is not pre-sorted and does not contain any duplicate elements.
     
     '''
